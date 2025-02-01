@@ -2,10 +2,9 @@
 
 
 - 👋 Hello there! I'm Luke Skinner 
-- 🌱 I am currently learning modern C#/ASP.NET multi-platform development, including MAUI in my spare time as part of hobby programming and to support my skills as a developer.
-- 💼 I am a Software Developer at KMsoft working on Inventory/Stock management software solutions in a variety of areas. The main two focusing on Medical and Industrial.
-- 👨‍🎓 I am Graduate from Uni of Stirling. BSc (Hons) Software Development with Cyber Security. You can check out my portfolio at [portfolio.ljskinner.com](https://portfolio.ljskinner.com/)
-- 👨‍💻 I am collaborating with my good friend [Andrew McGuckin](https://github.com/AndrewMcGuckin) on [Project Roundtable](https://github.com/Project-Roundtable) projects. We are currently working on a degree classification and grade calculator for fellow Uni of Stirling students.
+- 🌱 I am currently learning how to write my own programming language and also various AI topics. Some of them will be uploaded here to this repo, go have a gander if you're intereste.
+- 💼 I am a currently looking for my next industry role. I have worked previously as Software Dev creating full stack web apps for critical industries like healthcare.
+- 👨‍🎓 I am Graduate from Uni of Stirling. BSc (Hons) Software Development with Cyber Security. I'm planning on going back to do my MSc Artificial Intelligence in September at the Uni of Stirling
 - 📫 How to reach me: ljs.work@pm.me
-- ⚡ Fun fact: [Project Roundtable](https://github.com/Project-Roundtable) was originally going to be a Uni society/club, but we got too busy with our dissertations.
+- ⚡ Fun fact: The best programming language is whatever one you can use effectively to compile/run without errors.
 
